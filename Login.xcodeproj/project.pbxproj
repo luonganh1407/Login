@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2425D4C1EC410AA00399D86 /* 50896799_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2425D4B1EC410AA00399D86 /* 50896799_6.jpg */; };
 		E2E4E2841EC3068700622468 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E4E2831EC3068700622468 /* AppDelegate.swift */; };
 		E2E4E2861EC3068700622468 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E4E2851EC3068700622468 /* ViewController.swift */; };
 		E2E4E2891EC3068700622468 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2E4E2871EC3068700622468 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E2425D4B1EC410AA00399D86 /* 50896799_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50896799_6.jpg; sourceTree = "<group>"; };
 		E2E4E2801EC3068700622468 /* Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Login.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2E4E2831EC3068700622468 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2E4E2851EC3068700622468 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		E2E4E2821EC3068700622468 /* Login */ = {
 			isa = PBXGroup;
 			children = (
+				E2425D4B1EC410AA00399D86 /* 50896799_6.jpg */,
 				E2E4E2831EC3068700622468 /* AppDelegate.swift */,
 				E2E4E2851EC3068700622468 /* ViewController.swift */,
 				E2E4E2871EC3068700622468 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				E2E4E28E1EC3068700622468 /* LaunchScreen.storyboard in Resources */,
 				E2E4E28B1EC3068700622468 /* Assets.xcassets in Resources */,
 				E2E4E2891EC3068700622468 /* Main.storyboard in Resources */,
+				E2425D4C1EC410AA00399D86 /* 50896799_6.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +305,7 @@
 				E2E4E2941EC3068700622468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
